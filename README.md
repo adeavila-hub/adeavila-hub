@@ -1,21 +1,29 @@
 
-## I AM Alejandro 👋
 
-### SOBRE MI 
-- Futuro programador
-- Actualmente estudiando un grado superior
-- Hice practicas como Tecnico-informatico en IVECO
+# SOBRE MÍ
 
-### TECNOLOGIAS Y HERRAMIENTAS QUE DOMINO
-- HTML, CSS y un poco de JS
-- JAVA empezando
-- PHP
-- Seudocodigos como PSEINT
+Hola, soy Alejandro de Ávila Herrera. 
 
-### 
+- Cursando **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- Aprendiendo **Java, HTML, CSS y JavaScript**.
+- Graduado en **Grado Medio de Sistemas Microinformáticos y Redes (SMR)**.
+- Actualmente trabajando en una página web para una peluquería.
+- Con ganas de aprender, crear proyectos y seguir mejorando.
 
-<!--
-**adeavila-hub/adeavila-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
+### Tecnologías y herramientas
 
--->
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode&theme=dark" alt="Java, HTML, CSS, JavaScript, Git, GitHub y VS Code"/>
+
+<br/><br/>
+
+**Aprender · Crear · Mejorar**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:32105C,100:080610&height=130&section=footer" alt="Pie morado"/>
