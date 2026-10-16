@@ -1,6 +1,8 @@
 
 ![Texto alternativo](https://capsule-render.vercel.app/api?type=waving&height=200&color=color%3D0%2C%3A32105C&section=header&reversal=false&text=ALEJANDRO+DE+AVILA&textBg=false&fontColor=FFFFFF&fontSize=55&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
+<div align="center">
+  
 # SOBRE MÍ
 
 Hola, soy Alejandro de Ávila Herrera. 
@@ -19,7 +21,7 @@ Hola, soy Alejandro de Ávila Herrera.
 
 
 **Aprender · Crear · Mejorar**
-
+</div>
 
 
 ---
