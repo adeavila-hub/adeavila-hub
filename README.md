@@ -1,4 +1,5 @@
 
+![Texto alternativo](https://capsule-render.vercel.app/api?type=waving&height=200&color=color%3D0%2C%3A32105C&section=header&reversal=false&text=ALEJANDRO+DE+AVILA&textBg=false&fontColor=FFFFFF&fontSize=55&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 # SOBRE MÍ
 
@@ -23,5 +24,5 @@ Hola, soy Alejandro de Ávila Herrera.
 
 ---
 
-![Texto alternativo](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:32105C,100:080610&height=130&section=footer)
+![Texto alternativo](https://capsule-render.vercel.app/api?type=waving&height=175&color=color%3D0%2C%3A32105C&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
