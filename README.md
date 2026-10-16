@@ -23,6 +23,5 @@ Hola, soy Alejandro de Ávila Herrera.
 
 ---
 
+![Texto alternativo](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:32105C,100:080610&height=130&section=footer)
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:32105C,100:080610&height=130&section=footer" alt="Pie morado"/>
