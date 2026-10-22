@@ -18,14 +18,14 @@ Hola, soy Alejandro de Ávila Herrera. 👋
 
 | Tecnología o herramienta | Uso |
 |---|---|
-| ☕ **Java** | Aprendizaje de programación y lógica. |
-| 🌐 **HTML** | Estructura de páginas web. |
-| 🎨 **CSS** | Diseño y estilos web. |
-| ⚡ **JavaScript** | Interactividad en páginas web. |
-| 🔧 **Git y GitHub** | Control de versiones y publicación de proyectos. |
-| 💻 **Visual Studio Code** | Desarrollo y edición de código. |
+|  **Java** | Aprendizaje de programación y lógica. |
+|  **HTML** | Estructura de páginas web. |
+|  **CSS** | Diseño y estilos web. |
+|  **JavaScript** | Interactividad en páginas web. |
+|  **Git y GitHub** | Control de versiones y publicación de proyectos. |
+|  **Visual Studio Code** | Desarrollo y edición de código. |
 
-### 🚀 Objetivos
+###  Objetivos
 
 - Mejorar mis conocimientos de programación.
 - Desarrollar proyectos propios y aplicaciones web.
